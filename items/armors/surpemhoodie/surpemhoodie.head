@@ -1,1 +1,15 @@
+{
+  "itemName" : "surpemhead",
+  "price" : 9999,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "headwear",
+  "description" : "Wrap your head in the sweg! And be the talk of the town!",
+  "shortdescription" : "Surpem Hood",
+  "tooltipKind" : "armor",
 
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+}
